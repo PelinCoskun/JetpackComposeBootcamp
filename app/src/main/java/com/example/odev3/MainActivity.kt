@@ -131,9 +131,9 @@ fun Anasayfa(darkTheme: Boolean = isSystemInDarkTheme()) {
                     .padding(start = (ekranGenisligi / 20).dp, end = (ekranGenisligi / 20).dp),
                 horizontalArrangement = Arrangement.SpaceBetween
             ) {
-                Chip(icerik = "Ara")
-                Chip(icerik = "Mesaj Gönder")
-                Chip(icerik = "Teklif Ver")
+                Chip(icerik=stringResource(id=R.string.araButon))
+                Chip(icerik = stringResource(id=R.string.mesajButon))
+                Chip(icerik = stringResource(id=R.string.teklifButon))
             }
         }
     }
