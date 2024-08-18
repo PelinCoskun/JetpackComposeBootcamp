@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Advert</string>
     <string name="daireBaslik">Daire İlanı</string>
     <string name="ilanBaslik">İlan Detay</string>
     <string name="ilanDetay">Rekor Gayrimenkul</string>

@@ -3,6 +3,9 @@
     <string name="daireBaslik">Apartment Advertisement</string>
     <string name="ilanBaslik">Ad Detail</string>
     <string name="ilanDetay">Record Real Estate</string>
+    <string name="araButon">Call</string>
+    <string name="mesajButon">Send Message</string>
+    <string name="teklifButon">Make an Offer</string>
     <string name="daireAciklama">In order to provide you with better quality service, we bring you magnificent and inexpensive apartments.</string>
     <string name="fiyatYazi">1000 $</string>
 </resources>
